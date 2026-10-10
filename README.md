@@ -57,7 +57,7 @@ KaloSans是一款开源字体，基于Adobe出品的source-han-sans衍生的无�
 当您使用时请对原作者给出适当的署名或标注出处，十分感谢。
 
 ## 捐赠
-如果您实在愿意，下面是感谢捐赠通道（可以备注您的ID与平台），十分感谢您的支持：
+下面是感谢捐赠通道（可以备注您的ID与平台），十分感谢您的支持：
 
 ![](https://github.com/Kalooos0/KaloSans/blob/main/image/Donation.png)
 
